@@ -4,4 +4,6 @@ poori-$5
 vada-$2
 onion dhosha-$6
 bonda-$3
-masala dosa
+masala dosa-$5
+uthappam-$4
+upma-$3
