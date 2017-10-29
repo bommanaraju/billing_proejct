@@ -7,4 +7,3 @@ bonda-$3
 masala dosa-$5
 uthappam-$4
 upma-$3
-poori $5
